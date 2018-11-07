@@ -1,6 +1,6 @@
 # GitHubTest
 
-##This is a test repository
+## This is a test repository
 
 * For Testing
 * Readme
